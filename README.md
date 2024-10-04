@@ -1,5 +1,7 @@
 # [Project-Write-a-Data-Science-Blog-Post]
 [link to repository ](https://github.com/Azooz20084/Project-Write-a-Data-Science-Blog-Post)
+
+
 [link python file](project.ipynb)
 ## Project Motivation
 This project aims to predict the nightly price of Airbnb listings based on various features such as the number of bedrooms, bathrooms, location, and amenities. By understanding the key drivers of price, hosts can optimize their listings, and guests can better estimate the cost of staying at different properties.
