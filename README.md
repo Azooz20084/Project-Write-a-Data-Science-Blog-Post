@@ -1,4 +1,4 @@
-# [Project-Write-a-Data-Science-Blog-Post](URL)
+# [Project-Write-a-Data-Science-Blog-Post](https://github.com/Azooz20084/Project-Write-a-Data-Science-Blog-Post)
 
 
 ## Project Motivation
