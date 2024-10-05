@@ -36,7 +36,5 @@ The following libraries were used for data analysis and modeling:
 ## Acknowledgements
 I would like to acknowledge the datasets provided by Airbnb and resources from StackOverflow and Kaggle that helped in completing this project.
 
-[To see more information click here](https://github.com/Azooz20084/Project-Write-a-Data-Science-Blog-Post/blob/main/project.ipynb)
-
 
 [To see my blog from here](https://medium.com/@abulaziz.alb/introduction-c8e0d43aed51)
